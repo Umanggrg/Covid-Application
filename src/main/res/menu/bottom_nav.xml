@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/graphs"
+        android:icon="@drawable/ic_baseline_worldwide"
+        android:title="Worldwide"/>
+
+    <item
+        android:id="@+id/All"
+        android:icon="@drawable/search"
+        android:title="Countries"/>
+
+    <item
+        android:id="@+id/nneww"
+        android:icon="@drawable/news"
+        android:title="World News"/>
+
+    <item
+        android:id="@+id/hospi"
+        android:icon="@drawable/hospital"
+        android:title="Hospitals"/>
+</menu>
